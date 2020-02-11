@@ -1,0 +1,6 @@
+﻿Rectangle, 5, 10
+Rectangle, 10, 20
+Triangle, 42, 23
+Circle, 55
+Circle, 100
+Rectangle, 100, 200
